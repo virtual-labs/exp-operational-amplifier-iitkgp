@@ -51,7 +51,7 @@ In the differentiator circuit the input is connected to the the inverting output
 <p>Figure 3  </p>
 </div>
 
-Since, the node voltage \(V_x\) is 0 <br>
+Since, the node voltage V<sub>x</sub> is 0 <br>
         $$I_{IN}= I_f = - \frac{V_{OUT}}{R_f}$$                                                          
 The charge accross capacitor is given by,
        $$Q = C \times V_{IN}$$				                                 
