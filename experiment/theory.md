@@ -27,8 +27,8 @@ It is a circuit designed with Op-Amp in such a way that it performs the mathamet
 Since, the Output voltage is the potential difference accross capacitor.
 $$V_C = \frac{Q}{C}$$				           
 or,   $$V_C = V_X - V_{OUT} = -V_{OUT}$$                                     
-$$therefore -\frac{dVout}{dt} =\frac{1}{C} \times \frac{dQ}{dt}$$                    	
-$$\frac{dQ}{dt}$$ is the current as the $$V_x$$ is 0.
+therefore $$-\frac{dVout}{dt} =\frac{1}{C} \times \frac{dQ}{dt}$$                    	
+$$\frac{dQ}{dt}$$ is the current as the V<sub>x</sub> is 0.
 and input current can be written as<br>
          $$I_{IN} = \frac{(V_{IN} -0)}{R_{IN}}  $$                                                                                  
 and current through capacitor  I<sub>f</sub> can be  written as 
