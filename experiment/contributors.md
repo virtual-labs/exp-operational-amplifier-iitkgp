@@ -1,4 +1,4 @@
-## Subject Matter Experts
+## Subject Matter Expert
 
 **SNo** | **Name** |  **Email** | **Institute**| **Id**
 :--|:--|:--|:--|:--|
@@ -6,7 +6,7 @@
 
 
 
-## Developers
+## Developer
 
 
 **SNo** | **Name** |  **Email** | **Institute** | **Id**
@@ -14,7 +14,7 @@
 1 | Sukriti Dhang | sukritid05@gmail.com | IIT Kharagpur | [https://in.linkedin.com/in/sukriti-dhang-0a244612b](https://in.linkedin.com/in/sukriti-dhang-0a244612b) |
 
 
-## Integration Engineer
+## Integration Engineers
 
 **SNo** | **Name** |  **Email** | **Institute** | **Id**
 :--|:--|:--|:--|:--|
