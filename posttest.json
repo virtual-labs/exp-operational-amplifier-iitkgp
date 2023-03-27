@@ -1,0 +1,98 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Determine the output voltage of the differentiator?",
+      "answers": {
+        "a": " VO = RF×C1×[dVin/dt]",
+        "b": "VO = RF×CF×[dVin/dt].",
+        "c": "VO = -RF×C1×[dVin/dt]",
+        "d": "None of the above"
+        
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect  ",
+        "b": "You have choosen option (b). The answer is incorrect",
+        "c": "You have choosen option (c). The answer is correct",
+        "d":"You have choosen option (d). The answer is incorrect"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Inverting amplifier connection is more widely used because it has",
+      "answers": {
+        "a": "higher gain",
+        "b": "better frequencystability",
+        "c": "unit gain",
+        "d": "none of the above"
+        
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect  ",
+        "b": "You have choosen option (b). The answer is incorrect",
+        "c": "You have choosen option (c). The answer is incorrect",
+        "d":"You have choosen option (d). The answer is correct"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the output Integrator If we give the sinusoidal input",
+      "answers": {
+        "a": "Square",
+        "b": "Sine",
+        "c": "Triangle",
+        "d": "Linear"
+        
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect  ",
+        "b": "You have choosen option (b). The answer is incorrect",
+        "c": "You have choosen option (c). The answer is correct",
+        "d":"You have choosen option (d). The answer is incorrect"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "This circuit is referred to as a(n) <br/><p style=\"text-align:center\"><img src=\"images/integq.png\"></p>",
+      "answers": {
+        "a": "inverting amplifier",
+        "b": "noninverting amplifier",
+        "c": "integrator",
+        "d": " differentiator"
+        
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect  ",
+        "b": "You have choosen option (b). The answer is incorrect",
+        "c": "You have choosen option (c). The answer is correct",
+        "d":"You have choosen option (d). The answer is incorrect"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Opamp differentiator uses",
+      "answers": {
+        "a": "Resistor as feedback element",
+        "b": "Capacitor as feedback element",
+        "c": "Inductor as feedback element",
+        "d": "Simple wire as feedback element"
+        
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is correct  ",
+        "b": "You have choosen option (b). The answer is incorrect",
+        "c": "You have choosen option (c). The answer is incorrect",
+        "d":"You have choosen option (d). The answer is incorrect"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+    
+    
+    
+  ]
+}
