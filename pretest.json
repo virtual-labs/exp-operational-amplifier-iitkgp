@@ -1,0 +1,108 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "Differentiation amplifier produces",
+        "answers": {
+          "a": "Output waveform as integration of input waveform",
+          "b": "Input waveform as integration of output waveform",
+          "c": "Output waveform as derivative of input waveform",
+          "d": "Input waveform as derivative of output waveform"
+          
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is incorrect",
+          "b": "You have choosen option (b). The answer is incorrect",
+          "c": "You have choosen option (c). The answer is correct",
+          "d":"You have choosen option (d). The answer is incorrect"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Which factor makes the differentiator circuit unstable?",
+        "answers": {
+          "a": "Output Impedence",
+          "b": "Gain",
+          "c": "Noise",
+          "d": "Input voltage"
+
+          
+          
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is incorrect  ",
+          "b": "You have choosen option (b). The answer is correct",
+          "c": "You have choosen option (c). The answer is incorrect  ",
+          "d": "You have choosen option (d). The answer is incorrect"
+          
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "What will be the output differentiator if we give sinosoidal input",
+        "answers": {
+          "a": "Triangle",
+          "b": "Square",
+          "c": "Sine",
+          "d": "Linear"
+          
+          
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is incorrect  ",
+          "b": "You have choosen option (b). The answer is correct",
+          "c": "You have choosen option (c). The answer is incorrect  ",
+          "d": "You have choosen option (d). The answer is incorrect"
+          
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Opamp integrator uses",
+        "answers": {
+          "a": "Resistor as a feedback element",
+          "b": "Capacitor as a feedback element",
+          "c": "Inductor as a feedback element",
+          "d": "Simple wire as a feedback element"
+          
+          
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is incorrect  ",
+          "b": "You have choosen option (b). The answer is correct",
+          "c": "You have choosen option (c). The answer is incorrect  ",
+          "d": "You have choosen option (d). The answer is incorrect"
+          
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "An Opamp can be used to generate the waveform having shape",
+        "answers": {
+          "a": "Pulse",
+          "b": "Square",
+          "c": "Triangle",
+          "d": "All of the above"
+          
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is incorrect  ",
+          "b": "You have choosen option (b). The answer is incorrect",
+          "c": "You have choosen option (c). The answer is incorrect  ",
+          "d": "You have choosen option (d). The answer is correct"
+          
+          
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      }
+
+  
+
+    ]
+  }
+  
