@@ -24,7 +24,7 @@ L1-L7 or L1-L3, L3-L7, L4-L5, L11-L8, L12-L6, L8-L9, L4-L10.(For eg. click on 1 
                                     
 
 <div align="center">
-<img src="images/integrator_opamp_pr.png" width="40%">
+<img src="images/integrator_opamp_pr.png" style="max-width:100%; height:auto;">
 <p>Figure:1</p>
 </div>
 
@@ -49,7 +49,7 @@ L1-L7 or L1-L3, L3-L7, L4-L5, L11-L8, L12-L6, L8-L9, L4-L10.(For eg. click on 1 
 17. Note : Sometimes due to page load or cache, the graph may not come exact at one click. So it is better to double click on the channel-1 function/ channel-2 function/ dual function/ ground function to get the respective signals.
 
 <div align="center">
-<img src="images/differentiator_opamp_pr.png" width="40%">
+<img src="images/differentiator_opamp_pr.png" style="max-width:100%; height:auto;">
 <p>Figure: 2</p>
 </div>
 

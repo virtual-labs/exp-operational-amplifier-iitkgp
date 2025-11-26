@@ -9,7 +9,7 @@ Operational Amplifier commonly known as Op-Amp, is a linear elcectronic device h
 Op-Amp shows some properties that make it an ideal amplifier, its open loop gain and input impedance is infinite (i.e.,practically very high), Output impedance and offset voltage is zero(i.e.,practically very low) and bandwidth is infinite(i.e.,practically limitted to frequency where its gain become unity).
 
 <div align="center">
-<img src="images/opamp.png" width="50%">
+<img src="images/opamp.png" style="max-width:100%; height:auto;">
 <p>Figure 1  </p>
 </div>
 
@@ -20,7 +20,7 @@ Op-Amp shows some properties that make it an ideal amplifier, its open loop gain
 It is a circuit designed with Op-Amp in such a way that it performs the mathametical Integration operation, its output is proportional to the amplitude and time duration of the input applied. The integrator circuit layout is same as a inverting amplifier but the feedback resistor is replaced by a capacitor which make the circuit frequency dependent. In this case the circuit is derived by the time duration of input applied which results in the charging and discharging of the capacitor. Initially when the voltage is applied to integrator the uncharged capacitor allows maximum current to pass through it and no current flows through the Op-Amp due to the presence of virtual ground, the capacitor starts to charge at the rate of RC time constant and its impedence starts to increase with time and a potential diffrence is develops accross the capacitor resulting in charging current to decrease.This results in the ratio of capacitor's impedance and input resistance increasing causing a linearly increasing ramp output voltage that continues to increase until the capacitor becomes fully charged.
 
 <div align="center">
-<img src="images/integrator.png" width="50%">
+<img src="images/integrator.png" style="max-width:100%; height:auto;">
 <p>Figure 2  </p>
 </div>
 
@@ -47,7 +47,7 @@ where (-) sing indicates 108 degree phase shift.
 In the differentiator circuit the input is connected to the the inverting output of the Op-Amp through a capacitor(C) and a negetive feedback is provided to the inverting input terminal through a resistor(Rf), which is same as an integrator circuit with feedback capacitor and input resistor being replaced with each other. Here the circuit performs a mathematical differentiation operation, and the output is the first derivative of the input signal, 180' out of phase and apmlified with a factor Rf*C. The capacitor on the input allows only the AC component and restrict the DC, at low frequency the reactance of capicitor is very high causing a low gain and high frequency vice varsa but and high frequency the circuit becomes unstable.
 
 <div align="center">
-<img src="images/differentiator.png" width="50%">
+<img src="images/differentiator.png" style="max-width:100%; height:auto;">
 <p>Figure 3  </p>
 </div>
 
