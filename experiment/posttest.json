@@ -10,12 +10,7 @@
         "d": "None of the above"
         
       },
-      "explanations": {
-        "a": "You have choosen option (a). The answer is incorrect  ",
-        "b": "You have choosen option (b). The answer is incorrect",
-        "c": "You have choosen option (c). The answer is correct",
-        "d":"You have choosen option (d). The answer is incorrect"
-      },
+     
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -28,12 +23,7 @@
         "d": "none of the above"
         
       },
-      "explanations": {
-        "a": "You have choosen option (a). The answer is incorrect  ",
-        "b": "You have choosen option (b). The answer is incorrect",
-        "c": "You have choosen option (c). The answer is incorrect",
-        "d":"You have choosen option (d). The answer is correct"
-      },
+     
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -46,12 +36,7 @@
         "d": "Linear"
         
       },
-      "explanations": {
-        "a": "You have choosen option (a). The answer is incorrect  ",
-        "b": "You have choosen option (b). The answer is incorrect",
-        "c": "You have choosen option (c). The answer is correct",
-        "d":"You have choosen option (d). The answer is incorrect"
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -64,12 +49,7 @@
         "d": " differentiator"
         
       },
-      "explanations": {
-        "a": "You have choosen option (a). The answer is incorrect  ",
-        "b": "You have choosen option (b). The answer is incorrect",
-        "c": "You have choosen option (c). The answer is correct",
-        "d":"You have choosen option (d). The answer is incorrect"
-      },
+    
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -82,12 +62,7 @@
         "d": "Simple wire as feedback element"
         
       },
-      "explanations": {
-        "a": "You have choosen option (a). The answer is correct  ",
-        "b": "You have choosen option (b). The answer is incorrect",
-        "c": "You have choosen option (c). The answer is incorrect",
-        "d":"You have choosen option (d). The answer is incorrect"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     }
