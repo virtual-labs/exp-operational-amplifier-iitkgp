@@ -1,8 +1,5 @@
 ## Theory
 
-
-
-
 Operational Amplifier commonly known as Op-Amp, is a linear elcectronic device having three terminals, two high impedence input and one output terminal. Op-Amp can perform multiple function when attached to diffrent feedback combinations like resistive, capacitive or both. Generally it is used as voltage amplifier and the output voltage of the Op-Amp is the diffrence between the voltages at its two input terminals.
 
 
@@ -39,7 +36,7 @@ therefor,  $$\frac{V_{IN}}{V_{OUT}} \times \frac{dt}{R_{IN} \times C} = 1$$
 so, $$V_{OUT} = -\frac{1}{R_{IN} \times C}  &int; Vin. dt$$                                   
 or, 
 $$V_{OUT}  =-\frac{1}{j \times &omega; R_{IN} \times C} \times V_{IN}$$                                                                    
-where (-) sing indicates 108 degree phase shift.
+where (-) sign indicates 108 degree phase shift.
 
 
 ### The Differentiator
